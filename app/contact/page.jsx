@@ -1,5 +1,3 @@
-import Link from 'next/link';
-import { ContactForm } from '@/data/links';
 export default function Contact() {
     const socialLinks = [
         { name: 'GitHub', url: 'https://github.com', svg: 'https://cdn.simpleicons.org/github' },
