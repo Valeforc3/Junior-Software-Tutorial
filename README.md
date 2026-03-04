@@ -1,8 +1,8 @@
-### Junior-Software-Tutorial
+# Junior-Software-Tutorial
 
-# This repository will hold the tutorial to help junior developers cut their teeth on a semi-enterprise solution based on my experiences.
+### This repository will hold the tutorial to help junior developers cut their teeth on a semi-enterprise solution based on my experiences.
 
-# This project should walk you through:
+###### This project should walk you through:
 * The basics of setting up your own GitHub repository and connecting it to your local PC
 * The basics of using VS Code as your IDE
 * Creating a basic application in React
@@ -11,4 +11,4 @@
 * Some basic SQL
 
 
- # The wiki for this repository should walk you through the project properly, along with how to find resources to improve your skills in these areas (such as product documentation, industry articles, etc.)
+> The wiki for this repository should walk you through the project properly, along with how to find resources to improve your skills in these areas (such as product documentation, industry articles, etc.)
