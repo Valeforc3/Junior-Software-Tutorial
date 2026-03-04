@@ -11,4 +11,4 @@
 * Some basic SQL
 
 
-> The [Wiki](/Wiki/0.%20About%20the%20project) for this repository should walk you through the project properly, along with how to find resources to improve your skills in these areas (such as product documentation, industry articles, etc.)
+> The [Wiki](/Wiki/0.%20About%20the%20project.md) for this repository should walk you through the project properly, along with how to find resources to improve your skills in these areas (such as product documentation, industry articles, etc.)
