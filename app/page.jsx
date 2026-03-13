@@ -3,17 +3,16 @@ import { tasks } from '../data/tasks';
 export default function LandingPage() {
 
     return (
-        <div style={{ padding: '40px', fontFamily: 'Arial, sans-serif' }}>
+        <div>
             <h1>Junior Software Tutorial</h1>
             <p>A comprehensive guide to building modern web applications</p>
             
-            {/* Hero Section outlining the scope of the project */}
-            <div style={{ marginTop: '30px' }}>
+            <div>
                 {tasks.map((task, index) => (
-                    <div key={index} style={{ marginBottom: '30px', borderLeft: '4px solid #0366d6', paddingLeft: '20px' }}>
+                    <div>
                         <h2>{task.title}</h2>
-                        <p style={{ color: '#666' }}>{task.description}</p>
-                        <ul style={{ marginLeft: '20px' }}>
+                        <p>{task.description}</p>
+                        <ul>
                             {task.subtasks.map((subtask, subIndex) => (
                                 <li key={subIndex} style={{ marginBottom: '8px' }}>{subtask}</li>
                             ))}
