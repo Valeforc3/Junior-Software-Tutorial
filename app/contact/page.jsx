@@ -9,12 +9,12 @@ export default function Contact() {
     ];
 
     return (
-        <div className="min-h-screen bg-gray-50 py-12 px-4">
-            <div className="max-w-md mx-auto bg-white rounded-lg shadow-md p-8">
+        <div>
+            <div>
                 <h1 className="text-3xl font-bold text-center mb-2">Contact Us</h1>
-                <p className="text-center text-gray-600 mb-8">Connect with us on social media</p>
+                <p>Connect with us on social media</p>
                 
-                <div className="space-y-4">
+                <div>
                     {socialLinks.map((link) => (
                         <a
                             key={link.name}
