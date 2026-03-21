@@ -1,5 +1,5 @@
 import React from 'react';
-import { tasks } from '/data/tasks.jsx';
+import { tasks } from './data/tasks.jsx';
 export default function LandingPage() {
 
     return (
